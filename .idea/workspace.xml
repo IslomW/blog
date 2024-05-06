@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="212f7510-f686-4a21-8895-befa68b18942" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/blog-front/src/redux/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog-front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog-front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-front/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-front/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-front/src/components/Header/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/blog-front/src/components/Header/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-front/src/components/Post/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/blog-front/src/components/Post/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-front/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/blog-front/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-front/src/pages/AddPost/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/blog-front/src/pages/AddPost/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-front/src/pages/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/blog-front/src/pages/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-front/src/pages/Registration/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/blog-front/src/pages/Registration/index.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blog-front" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2foRu9pM26wjmSU7SDdut0ohBfC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/react",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive - Chonnam National University\바탕 화면\blog" />
+      <recent name="C:\Users\user\OneDrive - Chonnam National University\바탕 화면\blog\blog_front\mern-blog-frontend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/blog-front/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/blog-front/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="212f7510-f686-4a21-8895-befa68b18942" name="Changes" comment="" />
+      <created>1714465663513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714465663513</updated>
+      <workItem from="1714465664952" duration="52330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
