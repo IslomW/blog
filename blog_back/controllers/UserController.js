@@ -45,7 +45,7 @@ export const login = async (req, res) => {
         const user = await UserModel.findOne({email: req.body.email});
         if (!user) {
             return res.status(404).json({
-                message: 'Incorrect username or password.1',
+                message: 'Incorrect username or password.',
             });
         }
 

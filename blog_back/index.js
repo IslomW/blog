@@ -2,7 +2,7 @@ import express from 'express';
 import mongoose from "mongoose";
 import multer from 'multer';
 
-
+import cors from 'cors';
 import {loginValidation, postCreateValidation, registerValidation} from './validations.js';
 
 import checkAuth from "./utils/checkAuth.js";
@@ -16,8 +16,9 @@ mongoose.connect("mongodb+srv://admin:admin@cluster0.cioyvnj.mongodb.net/blog?re
     .catch((err) => console.log("DB error", err));
 
 const app = express();
-
+app.use(cors());
 app.use(express.json());
+
 app.use('/uploads', express.static('uploads'));
 
 const storage = multer.diskStorage({

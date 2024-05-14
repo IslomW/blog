@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/blog-front" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/blog_front/mern-blog-frontend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mern-blog-front" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mern-blog-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blog-front" vcs="" />
+    <mapping directory="$PROJECT_DIR$/blog_front/mern-blog-frontend" vcs="" />
+    <mapping directory="$PROJECT_DIR$/mern-blog-front" vcs="" />
+    <mapping directory="$PROJECT_DIR$/mern-blog-frontend" vcs="" />
   </component>
 </project>
